@@ -6,7 +6,7 @@
   <a href="https://github.com/search?q=user%3Aviniciusufx+.cs" target="_blank" alt="Linguagem de programação C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" alt="Linguagem de programação C#"/></a>
 </div>
 <details>
-  <summary><strong>Trilha .NET</strong></summary>
+  <summary><strong>.NET</strong></summary>
 
 | Desafio | Linguagem | Status |
 | :-: | :-: | :-: |
