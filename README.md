@@ -1,6 +1,16 @@
 # Desafios
 
-## [DIO - Digital Innovation One](https://github.com/viniciusufx/Desafios/tree/main/DIO%20-%20Digital%20Innovation%20One)
+## [Advent of Code](https://adventofcode.com/)
+## [AIZU ONLINE JUDGE](https://judge.u-aizu.ac.jp/)
+## [Algotester](https://algotester.com/)
+## [beecrowd](https://beecrowd.com/)
+## [Code Golf](https://code.golf/)
+## [Codeforces](https://codeforces.com/)
+## [Coderbyte](https://coderbyte.com/)
+## [CoderOJ](https://coderoj.com/)
+## [Codewars](https://www.codewars.com/)
+## [Daily Coding Problem](https://www.dailycodingproblem.com/)
+## [DIO - Digital Innovation One](https://www.dio.me/)
 
 <div align="center">
   <a href="https://github.com/search?q=user%3Aviniciusufx+.cs" target="_blank" alt="Linguagem de programação C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" alt="Linguagem de programação C#"/></a>
@@ -17,3 +27,15 @@
 | [Calculando a Folha de Pagamento](https://github.com/viniciusufx/Desafios/tree/main/DIO%20-%20Digital%20Innovation%20One/C%23/Calculando%20a%20Folha%20de%20Pagamento) | C# | ✔️ |
   
 </details>
+
+## [DMOJ](https://dmoj.ca/)
+## [GeeksforGeeks](https://www.geeksforgeeks.org/)
+## [InterviewBit](https://www.interviewbit.com/)
+## [LeetCode](https://leetcode.com/)
+## [Online Judge](https://onlinejudge.org/)
+## [PKU JudgeOnline](http://poj.org/)
+## [Project Euler](https://projecteuler.net/)
+## [Sphere online judge](https://www.spoj.com/)
+## [Timus Online Judge](https://acm.timus.ru/)
+## [VisuAlgo](https://visualgo.net/)
+
