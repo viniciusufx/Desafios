@@ -27,7 +27,7 @@
 | Explorando Análise de Recursos Humanos com Desafios de Código | C# | ✔️ |
 | Avaliando o Desempenho Anual dos Funcionários | C# | ✔️ |
 | Calculando a Folha de Pagamento | C# | ✔️ |
-| Criando um Sistema e Abstraindo um Celular com POO | C# | ✔️ |
+| Criando um Sistema e Abstraindo um Celular com POO | C# | ✖️ |
   
 </details>
 
