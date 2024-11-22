@@ -28,6 +28,7 @@
 | Avaliando o Desempenho Anual dos Funcionários | C# | ✔️ |
 | Calculando a Folha de Pagamento | C# | ✔️ |
 | Criando um Sistema e Abstraindo um Celular com POO | C# | ✖️ |
+| Montando Consultas Relacionais no SQL Server | SQL | ✔️ |
   
 </details>
 
