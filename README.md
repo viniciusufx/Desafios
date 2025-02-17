@@ -22,12 +22,14 @@
 
 | Desafio | Linguagem | Status |
 | :-: | :-: | :-: |
-| Construindo um sistema para um estacionamento | C# | ✔️ |
-| Construindo um sistema de hospedagem de um hotel | C# | ✔️ |
-| Explorando Análise de Recursos Humanos com Desafios de Código | C# | ✔️ |
 | Avaliando o Desempenho Anual dos Funcionários | C# | ✔️ |
 | Calculando a Folha de Pagamento | C# | ✔️ |
+| Construindo um sistema de hospedagem de um hotel | C# | ✔️ |
+| Construindo um sistema para um estacionamento | C# | ✔️ |
 | Criando um Sistema e Abstraindo um Celular com POO | C# | ✔️ |
+| Desafios Basicos de C# | C# | x |
+| Desafios Intermediários C# I | C# | x |
+| Explorando Análise de Recursos Humanos com Desafios de Código | C# | ✔️ |
 | Montando Consultas Relacionais no SQL Server | SQL | ✔️ |
   
 </details>

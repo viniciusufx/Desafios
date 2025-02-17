@@ -8,7 +8,6 @@ class Program
     {
         // Leitura da entrada do usuário
         string input = Console.ReadLine();
-
         // Processamento da entrada
         List<string> departamentos = input.Split(',').ToList();
         

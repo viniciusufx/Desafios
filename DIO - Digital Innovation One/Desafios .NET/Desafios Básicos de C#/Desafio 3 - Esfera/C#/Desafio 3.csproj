@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>Explorando_Análise_de_Recursos_Humanos_com_Desafios_de_Código_em_C_</RootNamespace>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>Desafio_3</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
