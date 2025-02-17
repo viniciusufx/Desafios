@@ -27,8 +27,8 @@
 | Construindo um sistema de hospedagem de um hotel | C# | ✔️ |
 | Construindo um sistema para um estacionamento | C# | ✔️ |
 | Criando um Sistema e Abstraindo um Celular com POO | C# | ✔️ |
-| Desafios Basicos de C# | C# | x |
-| Desafios Intermediários C# I | C# | x |
+| Desafios Basicos de C# | C# | ✔️ |
+| Desafios Intermediários C# I | C# | ✔️ |
 | Explorando Análise de Recursos Humanos com Desafios de Código | C# | ✔️ |
 | Montando Consultas Relacionais no SQL Server | SQL | ✔️ |
   
