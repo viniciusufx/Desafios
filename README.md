@@ -18,9 +18,9 @@
 </div>
 
 <details>
-  <summary><strong>Desafios .NET</strong></summary>
+  <summary><strong>Desafios</strong></summary>
 
-| Desafio | Linguagem | Status |
+| Desafio .NET | Linguagem | Status |
 | :-: | :-: | :-: |
 | Avaliando o Desempenho Anual dos Funcionários | C# | ✔️ |
 | Calculando a Folha de Pagamento | C# | ✔️ |
@@ -31,7 +31,12 @@
 | Desafios Intermediários C# I | C# | ✔️ |
 | Explorando Análise de Recursos Humanos com Desafios de Código | C# | ✔️ |
 | Montando Consultas Relacionais no SQL Server | SQL | ✔️ |
-  
+
+
+| Desafio Python | Linguagem | Status |
+| :-: | :-: | :-: |
+| Resolvendo Códigos em Python com o Github Copilot | Python | ✔️ |
+
 </details>
 
 ## [DMOJ](https://dmoj.ca/)
