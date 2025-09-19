@@ -37,6 +37,10 @@
 | :-: | :-: | :-: |
 | Resolvendo Códigos em Python com o Github Copilot | Python | ✔️ |
 
+| Desafios Segurança | Linguagem | Status |
+| :-: | :-: | :-: |
+| Phishing para captura de senhas do Facebook | Bash | ✔️ |
+
 </details>
 
 ## [DMOJ](https://dmoj.ca/)
