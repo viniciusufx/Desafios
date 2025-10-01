@@ -35,6 +35,7 @@
 
 | Desafio Python | Linguagem | Status |
 | :-: | :-: | :-: |
+| Entendendo um Ransomware na Prática com Python | Python | ✔️ |
 | Resolvendo Códigos em Python com o Github Copilot | Python | ✔️ |
 
 | Desafios Segurança | Linguagem | Status |
